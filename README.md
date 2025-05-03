@@ -32,7 +32,6 @@ A detailed Excel-based analysis of Q4 logistics data (Jan–Mar), showcasing ope
 ## 📁 Files Included
 
 - `ABC_Q4_full_analyzed_report.pdf` – Final analysis report  
-- `LA RENON Q4.xlsx` – Raw/processed Excel data (if added)  
 
 ---
 
